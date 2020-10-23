@@ -1,4 +1,6 @@
 # Google Cloud Exploration
+# Name : Gede Prasidha Bhawarnawa
+# NIM - Faculty : 16520045 - STEI
 
 ![Google Cloud Logo](https://github.com/LordGedelicious/GoogleCloud-Exploration/blob/main/index.png)
 
